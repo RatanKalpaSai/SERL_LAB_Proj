@@ -17,3 +17,13 @@ Set Up
 
 
    Can Contact me From Instagram
+
+Key Features:-
+
+1) Fully Functional Email sending Option to a desired email (or) a Feed Backform
+
+![image](https://github.com/RatanKalpaSai/SERL_LAB_Proj/assets/97551433/0de1f1fe-734c-4e71-92b2-8d3e61906732)
+
+
+2) 
+3) 
