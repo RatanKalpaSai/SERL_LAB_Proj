@@ -42,6 +42,14 @@ Key Features:-
 ![image](https://github.com/RatanKalpaSai/SERL_LAB_Proj/assets/97551433/7342c3c4-9296-496b-ac68-1df979535158)
 
 
+Pics of Website :-
+
+![image](https://github.com/RatanKalpaSai/SERL_LAB_Proj/assets/97551433/0746b367-5a15-4925-a060-5992c95cb885)
+
+![image](https://github.com/RatanKalpaSai/SERL_LAB_Proj/assets/97551433/9f535d64-4025-4ee9-9343-a156bf8de57e)
+
+
+
 
 
 
